@@ -3,15 +3,6 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 
-/[Ll]ibrary/
-!/Library/PackageCache/
-!/Library/PackageCache/blockadelabs/
-
-# Ignore everything in PackageCache except blockadelabs
-/Library/PackageCache/*
-!/Library/PackageCache/com.blockadelabs.sdk@8851aee88c/
-!/Library/PackageCache/com.graesonb.chat-gpt-wrapper-for-unity@2bd8b1cefb/
-
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
