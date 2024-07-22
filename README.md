@@ -1,5 +1,4 @@
 # FinalYearProject
-
 My thesis project for the final year of Uni: a "Meta Game Engine". Create and explore your own game by using AI Tools!
 
 ## Description
